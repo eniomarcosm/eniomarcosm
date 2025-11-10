@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eniomarcosm <Enio Marcos>
-- 👀 I’m interested in coding, gaming and business marketing 
-- 🌱 I’m currently learning nextjs and other JS stuff
-- 💞️ I’m looking to collaborate on a Information System for Education
+- 👀 I’m interested in coding, gaming and football
+- 🌱 I’m a full-stack developer with over 5+ year of experience in mobile and web
+- 🤖 I'm currently interested in development and implementation of AI technology 
 - 📫 You can reach me using my email <eniomarcos48@gmail.com>
 
 <!---
