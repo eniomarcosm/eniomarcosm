@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @eniomarcosm <Enio Marcos>
-- 👀 I’m interested in coding, gaming and football
-- 🌱 I’m a full-stack developer with over 5+ year of experience in mobile and web
-- 🤖 I'm currently interested in development and implementation of AI technology 
-- 📫 You can reach me using my email <eniomarcos48@gmail.com>
+Here's an improved version for your GitHub profile README, in English, without emojis:
 
+Hi, I'm <Énio Marcos> (@eniomarcosm)
+Full-stack developer with 5+ years of experience in web and mobile development, currently focused on studying and implementing AI technologies.
+Interests: coding, gaming, and football.
+Reach me at: <mr.eniomarcos@gmail.com>
 <!---
 eniomarcosm/eniomarcosm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
